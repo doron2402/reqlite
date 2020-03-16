@@ -22,7 +22,7 @@
   },
   "dependencies":{
     "bluebird": ">= 2.0.0",
-    "minimist": "0.2.0",
+    "minimist": "0.2.1",
     "geolib": "2.0.14",
     "moment": "2.10.2"
   },
